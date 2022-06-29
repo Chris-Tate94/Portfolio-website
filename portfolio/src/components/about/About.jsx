@@ -1,7 +1,7 @@
 import React from 'react'
 import ME from "../../assets/gym.JPG";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
+import { FaUserGraduate } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
 import './about.css'
 
@@ -27,9 +27,9 @@ const About = () => {
             </article>
           
             <article className='about__card'>
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small># of clients worldwide</small>
+              <FaUserGraduate className='about__icon'/>
+              <h5>Education</h5>
+              <small>Web Development Diploma Lighthouse Labs</small>
             </article>
           
             <article className='about__card'>
