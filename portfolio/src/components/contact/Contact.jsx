@@ -12,25 +12,30 @@ const Contact = () => {
       <div className='container contact__container'>
         <div className='contact__options'>
           <article className='contact__option'>
-            <MdOutlineEmail />
+            <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>Chris_tate_94@hotmail.com</h5>
-            <a href='mailto:chris_tate_94@hotmail.com'>Email Me</a>
+            <a href='mailto:chris_tate_94@hotmail.com' target="blank">Email Me</a>
           </article>
           <article className='contact__option'>
-            <RiMessengerLine />
+            <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Chris Tate</h5>
-            <a href='https://m.me/chris.tate.925'>Message Me</a>
+            <a href='https://m.me/chris.tate.925' target="blank" >Message Me</a>
           </article>
           <article className='contact__option'>
-            <BsTelephone />
+            <BsTelephone className='contact__option-icon'/>
             <h4>Call</h4>
             <h5>+1(647)970-3677</h5>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
-        <form action=""></form>
+        <form action="">
+          <input type="text" name='name' placeholder='Your Full Name' required/>
+          <input type="email" name='email' placeholder='Your Email' required/>
+          <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
+          <button type='submit' className='btn btn-primary'>Send Message</button>
+        </form>
       </div>
     </section>
   )
