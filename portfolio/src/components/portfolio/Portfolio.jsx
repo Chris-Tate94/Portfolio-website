@@ -1,7 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import homePage from "../../assets/home-page.png";
-import exerciseDetails from '../../assets/exercise-details.png'
+import exerciseDetails from '../../assets/exercise-details.png';
+import tweeter from '../../assets/tweeter.png';
 
 const data = [
   {
@@ -13,25 +14,26 @@ const data = [
   },
   {
     id: 2,
-    image: exerciseDetails,
-    title: 'Work it Out',
-    github: 'https://github.com/Chris-Tate94/Finals-Work-It-Out',
-    demo: 'https://github.com/Chris-Tate94/Finals-Work-It-Out'
+    image: homePage,
+    title: 'Jungle',
+    github: 'https://github.com/Chris-Tate94/Scheduler',
+    demo: 'https://github.com/Chris-Tate94/Scheduler'
   },
   {
     id: 3,
-    image: homePage,
+    image: tweeter,
     title: 'tweeter',
     github: 'https://github.com/Chris-Tate94/Scheduler',
     demo: 'https://github.com/Chris-Tate94/Scheduler'
   },
   {
     id: 4,
-    image: homePage,
-    title: 'Jungle',
-    github: 'https://github.com/Chris-Tate94/Scheduler',
-    demo: 'https://github.com/Chris-Tate94/Scheduler'
-  }
+    image: exerciseDetails,
+    title: 'Work it Out',
+    github: 'https://github.com/Chris-Tate94/Finals-Work-It-Out',
+    demo: 'https://github.com/Chris-Tate94/Finals-Work-It-Out'
+  },
+
 ]
 
 const Portfolio = () => {
