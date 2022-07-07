@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am a recent graduate of an intense, high octane coding bootcamp and I am looking for a Junior Developer opportunity so I can begin my career as a programmer. My hard work, dedication, consistency, eagerness to learn, and ability to multitask and prioritize would be help me succeed in any work environment. </p>
+          <p>I am a recent graduate of an intense coding bootcamp and I am looking for a Junior Developer opportunity so I can begin my career as a programmer. My hard work, dedication, consistency, eagerness to learn, ability to multitask and prioritization skills will help me succeed in any work environment.</p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>

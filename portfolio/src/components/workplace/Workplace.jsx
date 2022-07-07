@@ -18,17 +18,17 @@ const data = [
   {
     avatar: team,
     name: 'Team Player',
-    review: 'Being a team player was an essential part of my previous role as a Corporate Account Manager as the diverse and dynamic work environment incentivized collaboration and cooperation. With the seemingly ever increasing workload, one could easily drown in pending items without the help of colleagues and visa versa. Being able to cooperate and work well with others gave me the ability to delegate lower priority work so I could focus on more delicate, time sensitive tasks.'
+    review: 'Being a team player was an essential part of my previous role as a Corporate Account Manager. The diverse and dynamic work environments I have experience with incentivized collaboration and cooperation. With the ever increasing workload, one could easily drown in pending items without the support of ones colleagues. Being able to cooperate and work well with others gave me the ability to take on more complex tasks increasing my overall efficiency. When team members became overwhelmed with work, they would come to me for assistance in getting time sensitive tasks completed accurately and efficiently.'
   },
   {
     avatar: organizer,
     name: 'Highly Organized',
-    review: 'Managing a portfolio of 30 high profile corporate clients has its challenges, one of which being keeping track of all accounts at once and ensuring nothing slips through your grasp. Being highly organized is crucial in ensuring you are providing the best customer experience to each and every client and staying on top of all the incoming requests.'
+    review: 'Managing a portfolio of 30 high profile corporate clients has its challenges, one of which being keeping track of all accounts at once and ensuring nothing slips through your grasp. Being highly organized is crucial in ensuring you are providing the best customer experience to each and every client while staying on top of all the incoming requests.'
   },
   {
     avatar: prioritize,
     name: 'Prioritization',
-    review: 'Dealing with a large number of daily requests and juggling those with ongoing, more long term issues has helped me develop  astute prioritization skills. Being able to identify the severity of the situation along with being able to delegate smaller tasks helped me to keep the high priority issues under control while not neglecting smaller more menial requests. '
+    review: 'Dealing with a large number of daily requests and juggling those with ongoing, more long term issues has helped me develop astute prioritization skills. Being able to identify the severity of the situation along with being able to delegate smaller tasks helped me to keep the high priority issues under control while not neglecting smaller more menial requests. '
   },
   {
     avatar: management,
