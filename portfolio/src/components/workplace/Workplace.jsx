@@ -28,7 +28,7 @@ const data = [
   {
     avatar: prioritize,
     name: 'Prioritization',
-    review: 'Dealing with a large number of daily requests and juggling those with ongoing, more long term issues has helped me develop  astute prioritization skills. Being able to identify the severity of the situation along with being able to delegate smaller tasks helped me to keep the time sensitive issues under control while not neglecting smaller more menial requests. '
+    review: 'Dealing with a large number of daily requests and juggling those with ongoing, more long term issues has helped me develop  astute prioritization skills. Being able to identify the severity of the situation along with being able to delegate smaller tasks helped me to keep the high priority issues under control while not neglecting smaller more menial requests. '
   },
   {
     avatar: management,
