@@ -16,31 +16,15 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Eye for design</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Front end Development expereince</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Single Page Applications</p>
             </li>
           </ul>
         </article>
@@ -53,35 +37,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Strong understanding of REST api</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Full Stack Development capabilities</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Front end and Back end proficiency</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Database managment and query capabilities</p>
             </li>
           </ul>
         </article>
@@ -94,31 +62,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Multiple completed projects</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Front end focused projects</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Back end focused projects</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
-            </li>
-            <li>
-              <AiOutlineCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisic.</p>
+              <p>Full Stack Development Projects</p>
             </li>
           </ul>
         </article>

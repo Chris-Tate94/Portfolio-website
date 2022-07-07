@@ -3,6 +3,7 @@ import './portfolio.css'
 import homePage from "../../assets/home-page.png";
 import exerciseDetails from '../../assets/exercise-details.png';
 import tweeter from '../../assets/tweeter.png';
+import tinyApp from '../../assets/tinyApp.png';
 
 const data = [
   {
@@ -14,8 +15,8 @@ const data = [
   },
   {
     id: 2,
-    image: homePage,
-    title: 'Jungle',
+    image: tinyApp,
+    title: 'TinyApp',
     github: 'https://github.com/Chris-Tate94/Scheduler',
     demo: 'https://github.com/Chris-Tate94/Scheduler'
   },
@@ -23,8 +24,8 @@ const data = [
     id: 3,
     image: tweeter,
     title: 'tweeter',
-    github: 'https://github.com/Chris-Tate94/Scheduler',
-    demo: 'https://github.com/Chris-Tate94/Scheduler'
+    github: 'https://github.com/Chris-Tate94/tweeter',
+    demo: 'https://github.com/Chris-Tate94/tweeter'
   },
   {
     id: 4,

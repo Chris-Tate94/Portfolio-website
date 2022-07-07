@@ -1,7 +1,9 @@
 import React from 'react'
-import './testimonials.css'
-import AVTR1 from '../../assets/AVTR1.jpg'
-import AVTR2 from '../../assets/AVTR2.jpg'
+import './workplace.css'
+import management from '../../assets/management.png'
+import team from '../../assets/team.png'
+import organizer from '../../assets/organizer.png'
+import prioritize from '../../assets/prioritize.png'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -15,33 +17,33 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: AVTR1,
-    name: 'Client Name / Skills',
+    avatar: team,
+    name: 'Team Player',
     review: 'Client Review / Skill Description / Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem hic rerum nobis odit, ab, cupiditate exercitationem iste error quibusdam aspernatur, labore nemo debitis praesentium esse suscipit odio. Tenetur, ea beatae.'
   },
   {
-    avatar: AVTR2,
-    name: 'Client Name / Skills 2',
+    avatar: organizer,
+    name: 'Organized',
     review: 'Client Review / Skill Description / Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem hic rerum nobis odit, ab, cupiditate exercitationem iste error quibusdam aspernatur, labore nemo debitis praesentium esse suscipit odio. Tenetur, ea beatae.'
   },
   {
-    avatar: AVTR1,
-    name: 'Client Name / Skills 3',
+    avatar: prioritize,
+    name: 'Prioritization',
     review: 'Client Review / Skill Description / Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem hic rerum nobis odit, ab, cupiditate exercitationem iste error quibusdam aspernatur, labore nemo debitis praesentium esse suscipit odio. Tenetur, ea beatae.'
   },
   {
-    avatar: AVTR2,
-    name: 'Client Name / Skills 4',
+    avatar: management,
+    name: 'Account Management',
     review: 'Client Review / Skill Description / Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem hic rerum nobis odit, ab, cupiditate exercitationem iste error quibusdam aspernatur, labore nemo debitis praesentium esse suscipit odio. Tenetur, ea beatae.'
   },
 ]
 
 
-const Testimonials = () => {
+const Workplace = () => {
   return (
     <section id='testimonials'>
-      <h5>Review from Clients</h5>
-      <h2>Testimonials</h2>
+      <h5>Workplace Skills</h5>
+      <h2>Assets</h2>
 
       <Swiper className="container testimonials__container" 
         // install Swiper modules
@@ -68,4 +70,4 @@ const Testimonials = () => {
   )
 }
 
-export default Testimonials
+export default Workplace
