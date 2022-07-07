@@ -88,33 +88,6 @@ const Experience = () => {
           </div>
         </div>
       {/* END OF BACK END */}
-        {/* <div className="experience__backend">
-          <h3>Unit Testing</h3>
-          <div className="experience__content">
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Cypress</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Storybook</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Mocha & Chai </h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-          </div>
-        </div> */}
-      {/* END OF UNIT TESTING */}
       </div>
     </section>
   )
