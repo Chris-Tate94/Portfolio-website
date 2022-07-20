@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import homePage from "../../assets/home-page.png";
 import portfolio from "../../assets/portfolio_homepage.png";
-import exerciseDetails from '../../assets/exercise-details.png';
+import exerciseDetails from '../../assets/exercise-details.jpeg';
 import tweeter from '../../assets/tweeter.png';
 import tinyApp from '../../assets/tinyApp.png';
 
