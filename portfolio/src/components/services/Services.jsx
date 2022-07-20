@@ -70,22 +70,22 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Front end focused projects</p>
+              <p>Front end focused Applications</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Back end focused projects</p>
+              <p>Back end focused Applications</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Full Stack Development Projects</p>
+              <p>Full Stack Applications</p>
             </li>
           </ul>
         </article>
         {/* END OF CONTENT CREATION */}
         <article className='service'>
           <div className='service__head'>
-            <h3>Testing</h3>
+            <h3>Quality Control</h3>
           </div>
 
           <ul className='service__list'>
