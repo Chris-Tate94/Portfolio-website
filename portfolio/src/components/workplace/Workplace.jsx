@@ -33,7 +33,7 @@ const data = [
   {
     avatar: management,
     name: 'Account Management',
-    review: 'Maintaining a professional working relationship with all my clients helped me keep their expectations in check while also helping me ensure their needs were being met. They felt confident that I could get the job done, and If I was unable to get back to them with an answer immediately, I would keep them updated with the progress I was making on their issue. My professional demeanour, can-do attitude and excellent communication skills were key in developing and maintaining a wonderful working relationship with all my clients.'
+    review: 'Maintaining a professional working relationship with all my clients helped me keep their expectations in check while also helping me ensure their needs were being met. They felt confident that I could get the job done, and If I was unable to get back to them with an answer immediately, I would keep them updated with the progress I was making on their issue. My professional demeanor, can-do attitude and excellent communication skills were key in developing and maintaining a wonderful working relationship with all my clients.'
   },
 ]
 

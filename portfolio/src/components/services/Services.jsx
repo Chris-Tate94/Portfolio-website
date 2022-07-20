@@ -20,11 +20,15 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Front end Development expereince</p>
+              <p>Front end Development experience</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
               <p>Single Page Applications</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service__list-icon'/>
+              <p>Component Driven UI</p>
             </li>
           </ul>
         </article>
@@ -49,7 +53,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>Database managment and query capabilities</p>
+              <p>Database management and query capabilities</p>
             </li>
           </ul>
         </article>
@@ -75,6 +79,31 @@ const Services = () => {
             <li>
               <AiOutlineCheck className='service__list-icon'/>
               <p>Full Stack Development Projects</p>
+            </li>
+          </ul>
+        </article>
+        {/* END OF CONTENT CREATION */}
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Testing</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <AiOutlineCheck className='service__list-icon'/>
+              <p>Proficiency with multiple testing libraries</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service__list-icon'/>
+              <p>Unit Testing</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service__list-icon'/>
+              <p>End-to-End Testing</p>
+            </li>
+            <li>
+              <AiOutlineCheck className='service__list-icon'/>
+              <p>Error Handling</p>
             </li>
           </ul>
         </article>

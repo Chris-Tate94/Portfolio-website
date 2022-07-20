@@ -15,34 +15,33 @@ const data = [
     demo: 'https://github.com/Chris-Tate94/Scheduler'
   },
   {
-    id: 2,
+  id: 2,
+  image: exerciseDetails,
+  title: 'Work it Out',
+  github: 'https://github.com/Chris-Tate94/Finals-Work-It-Out',
+  demo: 'https://github.com/Chris-Tate94/Finals-Work-It-Out'
+  },
+  {
+    id: 3,
     image: homePage,
     title: 'Scheduler',
     github: 'https://github.com/Chris-Tate94/Scheduler',
     demo: 'https://github.com/Chris-Tate94/Scheduler'
   },
   {
-    id: 3,
+    id: 4,
     image: tinyApp,
     title: 'TinyApp',
     github: 'https://github.com/Chris-Tate94/Scheduler',
     demo: 'https://github.com/Chris-Tate94/Scheduler'
   },
   {
-    id: 4,
+    id: 5,
     image: tweeter,
     title: 'tweeter',
     github: 'https://github.com/Chris-Tate94/tweeter',
     demo: 'https://github.com/Chris-Tate94/tweeter'
-  },
-  {
-    id: 5,
-    image: exerciseDetails,
-    title: 'Work it Out',
-    github: 'https://github.com/Chris-Tate94/Finals-Work-It-Out',
-    demo: 'https://github.com/Chris-Tate94/Finals-Work-It-Out'
-  },
-
+  }
 ]
 
 const Portfolio = () => {
@@ -61,8 +60,8 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className='portfolio__item-cta'>
-                <a href={github} target='_blank' className='btn'>View Project</a>
-                <a href={demo} target='_blank' className='btn btn-primary'>Live Demo</a>
+                <a href={github} target='_blank' rel='noreferrer' className='btn'>View Project</a>
+                <a href={demo} target='_blank' rel='noreferrer' className='btn btn-primary'>Live Demo</a>
               </div>
             </article>
             )
