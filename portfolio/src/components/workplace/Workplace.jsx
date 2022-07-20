@@ -40,11 +40,11 @@ const data = [
 
 const Workplace = () => {
   return (
-    <section id='testimonials'>
+    <section id='workplace'>
       <h5>Workplace Skills</h5>
       <h2>Assets</h2>
 
-      <Swiper className="container testimonials__container" 
+      <Swiper className="container workplace__skills__container" 
         // install Swiper modules
         modules={[Pagination]}
         spaceBetween={40}
@@ -54,7 +54,7 @@ const Workplace = () => {
         {
           data.map(({avatar, name, review}, index) => {
             return (
-              <SwiperSlide key={index} className="testimonial">
+              <SwiperSlide key={index} className="skill">
                 <div className="client__avatar">
                   <img src={avatar} alt="Avatar" />
                 </div>

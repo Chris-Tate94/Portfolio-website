@@ -3,6 +3,7 @@ import './portfolio.css'
 import homePage from "../../assets/home-page.png";
 import portfolio from "../../assets/portfolio_homepage.png";
 import exerciseDetails from '../../assets/exercise-details.jpeg';
+import workoutDemo from '../../assets/new-workout.gif'
 import tweeter from '../../assets/tweeter.png';
 import tinyApp from '../../assets/tinyApp.png';
 
@@ -19,7 +20,7 @@ const data = [
   image: exerciseDetails,
   title: 'Work it Out',
   github: 'https://github.com/Chris-Tate94/Finals-Work-It-Out',
-  demo: 'https://github.com/Chris-Tate94/Finals-Work-It-Out'
+  demo: workoutDemo
   },
   {
     id: 3,
