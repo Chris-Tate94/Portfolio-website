@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 
 //Project image's
-import homePage from "../../assets/home-page.png";
+import homePage from "../../assets/scheduler.png";
 import portfolio from "../../assets/portfolio_homepage.png";
 import exerciseDetails from '../../assets/exercise-details.jpeg';
 import tweeter from '../../assets/tweeter.png';
@@ -17,17 +17,17 @@ const data = [
     id: 1,
     image: portfolio,
     title: 'Portfolio Site',
-    description: 'Hosted on Hostinger, this fully responsive and dynamic portfolio site showcases projects that I created or collaborated on.',
-    techStack: 'React, SwiperJS, EmailJS, and CSS.',
-    github: 'https://github.com/Chris-Tate94/Scheduler',
-    demo: 'https://github.com/Chris-Tate94/Scheduler'
+    description: 'Hosted on Hostinger, this fully responsive and dynamic portfolio site showcases projects that I created or collaborated on. I decided to build this site with React as I enjoyed the streamlined process of building and styling components individually.',
+    techStack: 'React, SwiperJS, EmailJS, CSS.',
+    github: 'https://github.com/Chris-Tate94/portfolio-website/tree/master/portfolio',
+    demo: 'https://github.com/Chris-Tate94/portfolio-website/tree/master/portfolio'
   },
   {
   id: 2,
   image: exerciseDetails,
   title: 'Work It Out',
   description: 'A personal workout app created in collaboration with Brendan Woo and Lea Pehar. This fully responsive React application allows unregistered users to follow along with pre-populated workouts for all major muscle groups. When users sign up, they are allowed to create, record, and save custom workouts, tracking their sets, repetitions, and weight used. ',
-  techStack: 'ReactJS, React-Router-DOM, Material UI, React Bootstrap, Axios, and PorstgreSQL.',
+  techStack: 'ReactJS, React-Router-DOM, Axios, PorstgreSQL.',
   github: 'https://github.com/Chris-Tate94/Finals-Work-It-Out',
   demo: workoutDemo
   },
