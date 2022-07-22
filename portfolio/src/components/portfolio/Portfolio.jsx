@@ -12,6 +12,7 @@ import tinyApp from '../../assets/tinyApp.png';
 import workoutDemo from '../../assets/new-workout.gif'
 import schedulerDemo from '../../assets/SchedulerDemo.gif'
 import tinyAppDemo from '../../assets/tinyAppDemo.gif'
+import tweeterDemo from '../../assets/tweeterDemo.gif'
 
 
 const data = [
@@ -58,7 +59,7 @@ const data = [
     description: "Tweeter is a single-page AJAX-based Twitter clone that uses Ajax to insert newly created 'tweets' to the top of a users feed without refreshing the page. The application is responsive and will dynamically change based on the users view port (tablets, phones, desktops). This project was created to be a single-page application focusing on front-end development and styling.",
     techStack: 'AJAX, CSS3, HTML5, jQuery.',
     github: 'https://github.com/Chris-Tate94/tweeter',
-    demo: 'https://github.com/Chris-Tate94/tweeter'
+    demo: tweeterDemo
   }
 ]
 
