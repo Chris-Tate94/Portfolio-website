@@ -10,7 +10,9 @@ import tinyApp from '../../assets/tinyApp.png';
 
 //Project Demo's
 import workoutDemo from '../../assets/new-workout.gif'
-import schedulerDemo from '../../assets/Add_appointment.gif'
+import schedulerDemo from '../../assets/SchedulerDemo.gif'
+import tinyAppDemo from '../../assets/tinyAppDemo.gif'
+
 
 const data = [
   {
@@ -47,7 +49,7 @@ const data = [
     description: "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la tinyurl.com). TinyApp is the first project for bootcamp students to get comfortable with creating web API's and setting up servers that interact accordingly with the client(s).",
     techStack: 'EJS, Express, HTML5, Node.js.',
     github: 'https://github.com/Chris-Tate94/tinyApp',
-    demo: 'https://github.com/Chris-Tate94/tinyApp'
+    demo: tinyAppDemo
   },
   {
     id: 5,
