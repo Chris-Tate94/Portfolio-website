@@ -8,7 +8,6 @@ import './about.css'
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get to know</h5>
       <h2>About me</h2>
 
       <div className='container about__container'>
@@ -39,7 +38,9 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am a recent graduate of an intense coding boot-camp and I am looking for a Junior Developer opportunity so I can begin my career as a programmer. My hard work, dedication, consistency, eagerness to learn, ability to multitask and prioritization skills will help me succeed in any work environment.</p>
+          <p>I have always been passionate about building things, and with the growth of the technological industry, I decided to dive in head first and lean to code. This led me to look at coding programs such as Lighthouse Labs, Canada's leading software development boot camp. After twelve grueling weeks of late nights and early mornings, I graduated with the confidence that no challenge is insurmountable.</p>
+
+          <p>I am looking for a Junior Developer opportunity so I can begin my career as a programmer. My hard work, dedication, consistency, eagerness to learn, ability to multitask and prioritization skills will help me succeed in any work environment.</p>
 
           <a href='#contact' className='btn btn-primary'>Contact Me</a>
         </div>

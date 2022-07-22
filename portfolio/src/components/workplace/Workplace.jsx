@@ -41,8 +41,7 @@ const data = [
 const Workplace = () => {
   return (
     <section id='workplace'>
-      <h5>Workplace Skills</h5>
-      <h2>Assets</h2>
+      <h2>Workplace Skills</h2>
 
       <Swiper className="container workplace__skills__container" 
         // install Swiper modules
